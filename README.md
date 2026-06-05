@@ -36,7 +36,7 @@ The collaboration demonstrates what the book argues: AI extends human capacity w
 
 ### Read
 
-The full text is available in [TheCut.md](./TheCut.md).
+The full text is available in [The Cut_Eric Van Laar.md](./The Cut_Eric Van Laar.md).
 
 There is no paywall. No email capture. No abbreviated version. The argument requires the path - each chapter builds on the last, and the cumulative case is the point. Summaries would eliminate the disclosure.
 
