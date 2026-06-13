@@ -1,16 +1,16 @@
 # The Cut
 
-## Decision and the Disclosure of Truth — And Why Artificial Intelligence Cannot Follow
+## Decision and the Disclosure of Truth - And Why Artificial Intelligence Cannot Follow
 
 We are outsourcing not only tasks but portions of our orientation: how we explain ourselves, how we resolve conflict, how we plan our future, how we interpret our emotions, how we decide what matters. Each outsourcing is individually reasonable. But the cumulative effect is something no individual decision intended: we are gradually transferring the activities through which meaning is made to systems that cannot make meaning.
 
-This book is an investigation into what gets lost — and what was never at risk.
+This book is an investigation into what gets lost - and what was never at risk.
 
 ### The Argument
 
-AI can produce answers that are coherent, informed, and even beautiful. But there is a difference between an answer that is *correct* and an answer that is *true* — true in the sense that binds, that costs something, that changes the person who receives it.
+AI can produce answers that are coherent, informed, and even beautiful. But there is a difference between an answer that is *correct* and an answer that is *true* - true in the sense that binds, that costs something, that changes the person who receives it.
 
-Meaningful Truth does not emerge from the processing of language, no matter how advanced. It emerges from a certain kind of existence — an existence that is situated, finite, exposed, and forced to choose.
+Meaningful Truth does not emerge from the processing of language, no matter how advanced. It emerges from a certain kind of existence - an existence that is situated, finite, exposed, and forced to choose.
 
 The argument rests on four ideas:
 
@@ -28,25 +28,25 @@ Not because it lacks the right algorithm. Because it lacks the kind of being for
 
 ### A Note on How This Was Written
 
-This book was written in collaboration with an artificial intelligence. That fact is part of the argument.
+This book was written in collaboration with an artificial intelligence. That fact is part of the argument - though not in the way it might first appear.
 
-The AI processed inputs, generated material, surfaced objections, and played a functional role throughout. I decided what mattered, chose what to pursue, cut what to discard, and was changed by the writing. But the sharpest evidence for the book's thesis was not the collaboration's success — it was its characteristic *failure*.
+The easy version of the claim would be that the machine made mistakes and I corrected them. It did, and I did. But mistakes are fixable; a better instrument makes fewer of them, and the errors this machine made while we worked are exactly the kind a better one would catch. If the proof rested there, it would dissolve the moment the tooling improved - and then the fair question would be whether an improved machine reaches what this book says it cannot. So the proof does not rest there.
 
-Asked again and again to engage the thinkers this book builds on, the machine produced fluent, confident, and subtly wrong accounts of them — flattening each toward the averaged version found in the secondary literature rather than the position the philosopher actually held. It could not tell the difference between a thinker and the consensus about that thinker, because it had processed everything written about them and borne none of it. I caught these errors only by going to the primary texts and reading them myself, with my name on the verdict.
+It rests on a division of labor that no improvement touches. Throughout the writing, the machine ranged over more material than I could hold, surfaced objections I would have missed, drafted and proposed and generated - it expanded the field. But at every point where it mattered - *is this true, does this hold, what do I cut* - the judgment had to be borne by me, because nothing was ever at stake for the machine in being wrong. It could weigh whether a claim was true; it could not be changed by getting it wrong, could not undergo the decision, could not bear the cost of the cut. And that asymmetry does not shrink as the machine improves - it grows clearer. A machine that handles every source flawlessly and still cannot care whether its verdict is right demonstrates this book's thesis more cleanly than a clumsy one ever could.
 
-That is the thesis, demonstrated by the instrument while writing the book that states it: the machine has the footprints; it has not walked. The truth this book contains — if it contains any — was disclosed through human path-walking, assisted by a machine that cannot walk paths. The proof is performative, and I did not have to manufacture it. It happened on the pages I checked.
+The truth this book contains - if it contains any - was disclosed through human path-walking, assisted by a machine that cannot walk paths. It has the footprints; it has not walked. The proof is performative, and improving the machine does not weaken it. It sharpens it.
 
 ### Read
 
 The full text is available in [TheCut.md](TheCut.md).
 
-There is no paywall. No email capture. No abbreviated version. The argument requires the path — each chapter builds on the last, and the cumulative case is the point. Summaries would eliminate the disclosure.
+There is no paywall. No email capture. No abbreviated version. The argument requires the path - each chapter builds on the last, and the cumulative case is the point. Summaries would eliminate the disclosure.
 
 If that sounds like a lot, start with the Preface. If the Preface doesn't earn the next chapter, the book wasn't for you.
 
 ### About the Author
 
-Eric Van Laar studied philosophy before spending over a decade managing the commercial side of major construction and infrastructure programs. He now works at the intersection of construction technology, geospatial intelligence, and artificial intelligence — building systems independently that use AI for satellite-based detection, operational decision-making, and knowledge management. The Cut emerged from the tension between using AI every day and recognizing what it structurally cannot do. He lives in Lancaster County, Pennsylvania.
+Eric Van Laar studied philosophy before spending over a decade managing the commercial side of major construction and infrastructure programs. He now works at the intersection of construction technology, geospatial intelligence, and artificial intelligence - building systems independently that use AI for satellite-based detection, operational decision-making, and knowledge management. The Cut emerged from the tension between using AI every day and recognizing what it structurally cannot do. He lives in Lancaster County, Pennsylvania.
 
 ### License
 
@@ -56,4 +56,4 @@ You are free to share and adapt this material for non-commercial purposes, with 
 
 ### Discuss
 
-If this work resonates — or if you think it's wrong — I'd like to hear from you. Find me on [LinkedIn](https://www.linkedin.com/in/evanlaar/).
+If this work resonates - or if you think it's wrong - I'd like to hear from you. Find me on [LinkedIn](https://www.linkedin.com/in/evanlaar/).
